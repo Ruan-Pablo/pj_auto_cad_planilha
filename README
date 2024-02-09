@@ -5,5 +5,9 @@
 Bibliotecas:
 - **Pyautogui**:  Automação de controle de periferico
 - **Openpyxl**: Tratamento da planilha
+- **pyperclip**: Usado para copiar mesmo com os caractéries e colar
+- **time**: Usar o sleep() pra dar uma pausa
+
+sistema de cadastro: https://cadastro-produtos-devaprender.netlify.app/index.html
 
 Vídeo usado: [Projeto Python Freelancer](https://www.youtube.com/watch?v=UtkPIpov6h8&ab_channel=DevAprender%7CJhonatandeSouza)
