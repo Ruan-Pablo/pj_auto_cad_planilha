@@ -1,0 +1,9 @@
+# PJ Python automação de cadastro a partir de planilha
+
+> Projeto para estudo de Python e bibiliotecas
+
+Bibliotecas:
+- **Pyautogui**:  Automação de controle de periferico
+- **Openpyxl**: Tratamento da planilha
+
+Vídeo usado: [Projeto Python Freelancer](https://www.youtube.com/watch?v=UtkPIpov6h8&ab_channel=DevAprender%7CJhonatandeSouza)
